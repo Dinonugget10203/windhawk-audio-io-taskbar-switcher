@@ -1,10 +1,11 @@
-    // ==WindhawkMod==
+// ==WindhawkMod==
 // @id              audio-device-tray-switcher
 // @name            Audio Device Switcher (Tray Icon)
 // @description     Adds a system tray icon for one-click switching of the default playback and recording devices
 // @version         1.1
 // @author          Dinonugget10203
 // @github          https://github.com/Dinonugget10203/windhawk-audio-io-taskbar-switcher
+// @license MIT
 // @include         explorer.exe
 // @compilerOptions -lole32 -luser32 -lshell32 -lgdi32
 // ==/WindhawkMod==
